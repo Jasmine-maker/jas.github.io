@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<heml lang="zh-cn">
+  <head>
+     <meta charst="utf-8"/>
+     <title>我的第一个网页</title>
+     <link rel="stylesheet" type="text/css" href="styles/test.css">
+  </head>
+  <body>
+      <h1>基本信息</h1>
+       <p>姓名：解舒婷   性别：女   星座：白羊座</p>      
+       <h1>成长经历</h1>
+       <p>小学就读于唐家庄小学</p>
+       <p>中学就读于马连庄镇中心中学</p>
+       <img src="https://www.meipian.cn/1pdnrt7u">
+       <p>高中就读于山东省莱西市第一中学</p>
+       <img src="http://quan.m.laixi.com/wap/thread/view-thread/tid/43210">      
+       <h1>兴趣爱好</h1>
+       <p>爱好书法，喜欢柳体和小楷</p>
+       <p>喜欢音乐，喜欢听纯音乐</p>
+       <p>喜欢读书，尤其喜欢悬疑和科幻类型的小说。最喜欢的作者是东野圭吾，最喜欢的小说是《白夜行》</p>
+       <p>喜欢电影，最喜欢宫崎骏的动画电影</p>
 
-You can use the [editor on GitHub](https://github.com/Jasmine-maker/jas.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jasmine-maker/jas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  </body>
+  
